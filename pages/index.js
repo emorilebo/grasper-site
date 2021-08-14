@@ -11,7 +11,12 @@ export default function Home() {
 
       <Header />
       {/* Header */}
-      {/* Banner */}
+      {/* Banner and Hero */}
+      {/* About and Goals */}
+      {/* Projects */}
+      {/* Team */}
+      {/* Testimonials */}
+      {/* Footer */}
     </div>
   );
 }
