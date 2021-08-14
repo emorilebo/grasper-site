@@ -45,7 +45,7 @@ function Header() {
         </div>
       </div>
       {/* Bottom nav */}
-      <div className="flex items-center space-x-3 p-2 pl-6 bg-gray-300 text-white text-sm">
+      {/* <div className="flex items-center space-x-3 p-2 pl-6 bg-gray-300 text-white text-sm">
         <BookmarkIcon className="h-6 mr-1" />
         <p className="flex items-center">GRASP</p>
         <p>Growing</p>
@@ -53,7 +53,7 @@ function Header() {
         <p>And</p>
         <p>Solving</p>
         <p>Problems</p>
-      </div>
+      </div> */}
     </header>
   );
 }
