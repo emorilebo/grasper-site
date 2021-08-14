@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>GRASPER AI</title>
+        <title>Grasper AI</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
