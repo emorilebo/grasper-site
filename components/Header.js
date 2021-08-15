@@ -10,7 +10,7 @@ import {
 function Header() {
   return (
     <header>
-      <div className="flex items-center bg-gray-100 p-2 flex-grow py-2">
+      <div className="flex sticky top-0 z-50 shadow-md items-center bg-gray-100 p-2 flex-grow py-2">
         <div className="m-2 flex items-center flex-grow sm:flex-grow-0">
           <Image
             src="/grasperlogo.png"
